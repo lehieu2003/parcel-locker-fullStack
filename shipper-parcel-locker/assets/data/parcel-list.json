@@ -1,0 +1,29 @@
+{
+    "parcels": [
+      {
+        "id": 1,
+        "size": "20×16×10cm",
+        "type": "Electronic devices",
+        "cellNumber": 1,
+        "imageUrl": "path_to_image_1.png",
+        "status": "Dropped off"
+      },
+      {
+        "id": 2,
+        "size": "24×14×9cm",
+        "type": "Houseware",
+        "cellNumber": 2,
+        "imageUrl": "path_to_image_2.png",
+        "status": "Picked up"
+      },
+      {
+        "id": 3,
+        "size": "24×14×9cm",
+        "type": "Houseware",
+        "cellNumber": 3,
+        "imageUrl": "path_to_image_3.png",
+        "status": "Dropped off"
+      }
+    ]
+  }
+  

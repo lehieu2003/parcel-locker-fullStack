@@ -1,0 +1,180 @@
+{
+  "lockers": [
+    {
+      "locker_id": 1,
+      "geometry": {
+        "coordinates": [106.80179662120123, 10.877684881894533]
+      },
+      "properties": {
+        "locker_name": "Trường đại học quốc tế",
+        "address": "123 Main St, District 9, Ho Chi Minh City"
+      },
+      "parcels": [
+        {
+          "id": 1,
+          "size": "20×16×10cm",
+          "type": "Electronic devices",
+          "cellNumber": 1,
+          "imageUrl": "path_to_image_1.png",
+          "status": "Dropped off"
+        },
+        {
+          "id": 2,
+          "size": "24×14×9cm",
+          "type": "Houseware",
+          "cellNumber": 2,
+          "imageUrl": "path_to_image_2.png",
+          "status": "Picked up"
+        },
+        {
+          "id": 3,
+          "size": "24×14×9cm",
+          "type": "Houseware",
+          "cellNumber": 3,
+          "imageUrl": "path_to_image_3.png",
+          "status": "Dropped off"
+        },
+        {
+          "id": 7,
+          "size": "15×15×15cm",
+          "type": "Books",
+          "cellNumber": 4,
+          "imageUrl": "path_to_image_7.png",
+          "status": "Dropped off"
+        },
+        {
+          "id": 8,
+          "size": "30×30×30cm",
+          "type": "Furniture",
+          "cellNumber": 5,
+          "imageUrl": "path_to_image_8.png",
+          "status": "Picked up"
+        }
+      ]
+    },
+    {
+      "locker_id": 2,
+      "geometry": {
+        "coordinates": [106.77256755439603, 10.850758833491637]
+      },
+      "properties": {
+        "locker_name": "Trường đại học sư phạm kỹ thuật",
+        "address": "456 Elm St, District 9, Ho Chi Minh City"
+      },
+      "parcels": [
+        {
+          "id": 4,
+          "size": "30×20×15cm",
+          "type": "Books",
+          "cellNumber": 1,
+          "imageUrl": "path_to_image_4.png",
+          "status": "Dropped off"
+        },
+        {
+          "id": 9,
+          "size": "25×25×25cm",
+          "type": "Toys",
+          "cellNumber": 2,
+          "imageUrl": "path_to_image_9.png",
+          "status": "Dropped off"
+        }
+      ]
+    },
+    {
+      "locker_id": 3,
+      "geometry": {
+        "coordinates": [106.741599139059198, 10.80239239605592]
+      },
+      "properties": {
+        "locker_name": "Vincom mega mall thảo điền",
+        "address": "789 Oak St, District 9, Ho Chi Minh City"
+      },
+      "parcels": [
+        {
+          "id": 5,
+          "size": "15×10×8cm",
+          "type": "Clothing",
+          "cellNumber": 1,
+          "imageUrl": "path_to_image_5.png",
+          "status": "Dropped off"
+        },
+        {
+          "id": 10,
+          "size": "20×15×10cm",
+          "type": "Clothing",
+          "cellNumber": 2,
+          "imageUrl": "path_to_image_10.png",
+          "status": "Picked up"
+        }
+      ]
+    },
+    {
+      "locker_id": 4,
+      "geometry": {
+        "coordinates": [106.70663586788784, 10.800633938352545]
+      },
+      "properties": {
+        "locker_name": "Trường đại học quốc tế hồng bàng",
+        "address": "101 Pine St, District 9, Ho Chi Minh City"
+      },
+      "parcels": [
+        {
+          "id": 6,
+          "size": "10×10×10cm",
+          "type": "Toys",
+          "cellNumber": 1,
+          "imageUrl": "path_to_image_6.png",
+          "status": "Dropped off"
+        },
+        {
+          "id": 11,
+          "size": "12×12×12cm",
+          "type": "Books",
+          "cellNumber": 2,
+          "imageUrl": "path_to_image_11.png",
+          "status": "Dropped off"
+        }
+      ]
+    },
+    {
+      "locker_id": 5,
+      "geometry": {
+        "coordinates": [106.69923301021759, 10.780876710430748]
+      },
+      "properties": {
+        "locker_name": "Diamond plaza",
+        "address": "202 Maple St, District 9, Ho Chi Minh City"
+      },
+      "parcels": [
+        {
+          "id": 12,
+          "size": "40×30×20cm",
+          "type": "Furniture",
+          "cellNumber": 1,
+          "imageUrl": "path_to_image_12.png",
+          "status": "Dropped off"
+        }
+      ]
+    },
+    {
+      "locker_id": 6,
+      "geometry": {
+        "coordinates": [106.68917399746685, 10.783946173678276]
+      },
+      "properties": {
+        "locker_name": "Nhà thiếu nhi thành phố hcm",
+        "address": "303 Cedar St, District 9, Ho Chi Minh City"
+      },
+      "parcels": [
+        {
+          "id": 13,
+          "size": "18×18×18cm",
+          "type": "Electronic devices",
+          "cellNumber": 1,
+          "imageUrl": "path_to_image_13.png",
+          "status": "Dropped off"
+        }
+      ]
+    }
+  ]
+}

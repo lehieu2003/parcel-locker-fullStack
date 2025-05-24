@@ -1,0 +1,14 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile.prod
+    container_name: frontend
+    working_dir: /app
+    volumes:
+      - ./src:/app/src
+    environment:
+      - VITE_APP_API_URL=${VITE_APP_API_URL}
+    ports:
+      - "80:80"
+    restart: always

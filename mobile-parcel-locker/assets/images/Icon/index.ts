@@ -1,0 +1,13 @@
+export { default as CheckOrder } from "./check_order.svg";
+export { default as CreateOrder } from "./create_order.svg";
+export { default as FindLocker } from "./find_locker.svg";
+export { default as OrderHistory } from "./order_history.svg";
+export { default as UserImage } from "./user_image.svg";
+export { default as SmallParcel } from "./small_parcel.svg";
+export { default as MediumParcel } from "./medium_parcel.svg";
+export { default as SenderIcon } from "./sender_icon.svg";
+export { default as ReceiverIcon } from "./receiver_icon.svg";
+export { default as ClockIcon } from "./clock_icon.svg";
+export { default as ClipboardIcon } from "./clipboard_icon.svg";
+export { default as InformationIcon } from "./information.svg";
+export { default as FindIcon } from "./find.svg";

@@ -1,0 +1,37 @@
+{
+  "build": {
+    "preview": {
+      "env": {
+        "EXPO_PUBLIC_API_URL": "https://api.captechvn.com/api/v1/",
+        "EXPO_PUBLIC_MAP_URL": "https://nominatim.openstreetmap.org/",
+        "EXPO_PUBLIC_OSRM_URL": "https://router.project-osrm.org/"
+      },
+      "android": {
+        "buildType": "apk"
+      }
+    },
+    "preview2": { 
+      "env": {
+        "EXPO_PUBLIC_API_URL": "https://api.captechvn.com/api/v1/",
+        "EXPO_PUBLIC_MAP_URL": "https://nominatim.openstreetmap.org/",
+        "EXPO_PUBLIC_OSRM_URL": "https://router.project-osrm.org/"    },
+      "android": {
+        "gradleCommand": ":app:assembleRelease"
+      }
+    },
+    "preview3": { "env": {
+      "EXPO_PUBLIC_API_URL": "https://api.captechvn.com/api/v1/",
+      "EXPO_PUBLIC_MAP_URL": "https://nominatim.openstreetmap.org/",
+      "EXPO_PUBLIC_OSRM_URL": "https://router.project-osrm.org/"    },
+      "developmentClient": true
+    },
+    "preview4": {
+      "env": {
+        "EXPO_PUBLIC_API_URL": "https://api.captechvn.com/api/v1/",
+        "EXPO_PUBLIC_MAP_URL": "https://nominatim.openstreetmap.org/",
+        "EXPO_PUBLIC_OSRM_URL": "https://router.project-osrm.org/"      },
+      "distribution": "internal"
+    },
+    "production": {}
+  }
+}
