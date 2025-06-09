@@ -2,6 +2,12 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+
+## Demo
+
+Check out our video demonstration of the IU Parcel Locker System:
+[Video Demo](https://drive.google.com/drive/folders/1C5NvZTe9c8imZqWmGcoNvX1kBNEzmWp9?fbclid=IwAR23yPWGbn9SrAdxa6RJx5zilX8FMsBiCAck9shA8KUpEI8zRQAw_hhdvqg)
+
 ## Project Overview
 
 The IU Parcel Locker System is a comprehensive solution for secure and convenient package delivery and storage. This system allows users to store and retrieve parcels through automated lockers, providing a flexible and secure alternative to traditional delivery methods.
@@ -88,10 +94,6 @@ The admin dashboard is a web application for administrators to manage the entire
 
 Each component has its own setup instructions. Please refer to the individual README files for detailed instructions.
 
-## Demo
-
-Check out our video demonstration of the IU Parcel Locker System:
-[Video Demo](https://drive.google.com/drive/folders/1C5NvZTe9c8imZqWmGcoNvX1kBNEzmWp9?fbclid=IwAR23yPWGbn9SrAdxa6RJx5zilX8FMsBiCAck9shA8KUpEI8zRQAw_hhdvqg)
 
 ## Schema Design
 
